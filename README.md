@@ -66,7 +66,7 @@ This repository contains a detailed summary of key concepts from the **AWS Cloud
 ---
 
 ## Full Summary File
-You can view the complete **AWS Cloud Practitioner Summary** [here](https://github.com/RahimehAfshari/AWS-Cloud-Practitioner-Summary/blob/main/AWS_Cloud_Practitioner_Summary.md)
+You can view the complete **AWS Cloud Practitioner Summary** [here](https://github.com/RahimehAfshari/AWS-Cloud-Practitioner-Summary/commit/dfe62616d0a777048c34edebba05fc1c7558d05e)
 
 )
 
